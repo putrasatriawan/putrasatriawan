@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tri Putra Satriawan</h1>
 <h3 align="center">A passionate fullstack developer from Bandung, Indonesia</h3>
 
-- 🌱 I’m currently learning **Flutter, Vue, Laravel, ReactJS, Codeigniter**
+- 🌱 I’m currently learning **Vue, Laravel, NuxtJS, Codeigniter, JavaScript**
 
 - 📫 How to reach me **tripsatriawan39@gmail.com**
 
